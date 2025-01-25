@@ -3,8 +3,8 @@ some c4d scripts
 
 
 
-## Usage method <br>
-Download and decompress **\<C4dScriptsWuJiGeGe>  to \<C:\Program Files\Maxon Cinema 4D 2025\library\scripts>, Press Shift+F12, search for a keyword, and drag the icon anywhere on the panel. <br>
+## UsageMethod <br>
+Download and decompress C4dScriptsWuJiGeGe to C:\Program Files\Maxon Cinema 4D 2025\library\scripts , Press Shift+F12, search for a keyword, and drag the icon anywhere on the panel. <br>
 
 ---
 

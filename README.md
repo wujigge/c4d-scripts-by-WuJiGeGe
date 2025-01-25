@@ -6,5 +6,5 @@ some c4d scripts
 Add a c4d standard material of random color to each selected object with the same name as the object. Multiple clicks will only change the color, not add material.
 
 ## PositionWorldFollow
-第二个选中对象跟随第一个选中对象的世界坐标.
+第二个选中对象跟随第一个选中对象的世界坐标.<br>
 The second selected object follows the world coordinates of the first selected object.

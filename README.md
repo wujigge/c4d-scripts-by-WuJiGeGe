@@ -23,3 +23,9 @@ The second selected object follows the world coordinates of the first selected o
 
 <img src="https://github.com/wujigge/c4d-scripts-by-WuJiGeGe/blob/main/pngforgithub/PlaneLockRatio.png" alt="PlaneLockRatio" width="64" height="64"> **PlaneLockRatio.py** <br>
 Add a python tag for Plane that locks the initial scale.
+
+---
+
+<img src="https://github.com/wujigge/c4d-scripts-by-WuJiGeGe/blob/main/pngforgithub/TagsSameColor.png" alt="TagsSameColor" width="64" height="64"> **TagsSameColor.py** <br>
+为当前对象添加一个python tag,功能是,使对象的icon和tags的颜色都跟随对象所在的层.
+![TagsSameColor](https://github.com/wujigge/c4d-scripts-by-WuJiGeGe/blob/main/pngforgithub/TagsSameColor_example.png)

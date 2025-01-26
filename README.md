@@ -12,6 +12,7 @@ Download and decompress C4dScriptsWuJiGeGe to C:\Program Files\Maxon Cinema 4D 2
 ## ScriptsList
 <img src="https://github.com/wujigge/c4d-scripts-by-WuJiGeGe/blob/main/pngforgithub/RandomColorStandardMaterial.png" alt="PlaneLockRatio" width="64" height="64"> **RandomColorStandardMaterial.py** <br>
 Add a c4d standard material of random color to each selected object with the same name as the object. Multiple clicks will only change the color, not add material.
+![RandomColorStandardMaterial](https://github.com/wujigge/c4d-scripts-by-WuJiGeGe/blob/main/pngforgithub/RandomColorStandardMaterial_example.png)
 
 ---
 

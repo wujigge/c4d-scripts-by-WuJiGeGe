@@ -30,3 +30,9 @@ Add a python tag for Plane that locks the initial scale.
 <img src="https://github.com/wujigge/c4d-scripts-by-WuJiGeGe/blob/main/pngforgithub/TagsSameColor.png" alt="TagsSameColor" width="64" height="64"> **TagsSameColor.py** <br>
 Add a python tag to the current object so that the color of the object's icon and tags follow the layer the object is in.
 ![TagsSameColor](https://github.com/wujigge/c4d-scripts-by-WuJiGeGe/blob/main/pngforgithub/TagsSameColor_example.png)
+
+---
+
+<img src="https://github.com/wujigge/c4d-scripts-by-WuJiGeGe/blob/main/pngforgithub/DeleteNulls.png" alt="DeleteNulls" width="64" height="64"> **DeleteNull.py** <br>
+Deletes a null object from the selected object.
+

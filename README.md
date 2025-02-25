@@ -33,6 +33,6 @@ Add a python tag to the current object so that the color of the object's icon an
 
 ---
 
-<img src="https://github.com/wujigge/c4d-scripts-by-WuJiGeGe/blob/main/pngforgithub/DeleteNulls.png" alt="DeleteNulls" width="64" height="64"> **DeleteNull.py** <br>
+<img src="https://github.com/wujigge/c4d-scripts-by-WuJiGeGe/blob/main/pngforgithub/DeleteNulls.png" alt="DeleteNulls" width="64" height="64"> **DeleteNulls.py** <br>
 Deletes a null object from the selected object.
 
